@@ -1,7 +1,5 @@
-# OptiFine ported to EagX 1.8
+# Shadow Client 3.0
 
 https://radioactivepotato.github.io/shadowclient
 
-https://optifine.radioactivepotato.me
-
-https://shadowclient-blue.vercel.app/
+https://eagxshadowclient.vercel.app
