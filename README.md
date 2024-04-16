@@ -1,4 +1,4 @@
-# Shadow Client 3.0
+# Shadow Client 3.0 (u22)
 
 https://radioactivepotato.github.io/shadowclient
 
